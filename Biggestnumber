@@ -1,0 +1,13 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 15 14:18:46 2020
+
+@author: priya
+"""
+number1=int(input("enter first number"))
+number2=int(input("enter second number"))
+if number1>number2:
+    print("the biggest number is",number1)
+else:
+    print("the biggest number is",number2)
